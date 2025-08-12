@@ -1,38 +1,29 @@
+# My DeskFan Tutorial
+# Flash-a-rama
 
-/**
-* Use this file to define custom functions and blocks.
-* Read more at https://makecode.microbit.org/blocks/custom
-*/
+## It's time to code! @showdialog
 
-enum MyEnum {
-    //% block="one"
-    One,
-    //% block="two"
-    Two
-}
+Let's get real bright. We're going to make all the lights flash on your board!
 
-/**
- * Custom blocks
- */
-//% weight=100 color=#0fbc11 icon=""
-namespace custom {
-    /**
-     * TODO: describe your function here
-     * @param n describe parameter here, eg: 5
-     * @param s describe parameter here, eg: "Hello"
-     * @param e describe parameter here
-     */
-    //% block
-    export function foo(n: number, s: string, e: MyEnum): void {
-        // Add code here
-    }
+![Flash lights](https://static.wixstatic.com/media/9e10e9_f4c35f4407bf4fb4963fa98f174f1aa4~mv2.jpg/v1/fill/w_1074,h_500,fp_0.50_0.50,q_85,enc_auto/9e10e9_f4c35f4407bf4fb4963fa98f174f1aa4~mv2.jpg)
 
-    /**
-     * TODO: describe your function here
-     * @param value describe value here, eg: 5
-     */
-    //% block
-    export function fib(value: number): number {
-        return value <= 1 ? value : fib(value -1) + fib(value - 2);
-    }
-}
+## Build the circuit as shown @showdialog
+
+Let's get real bright. We're going to make all the lights flash on your board!
+
+![Flash lights](https://static.wixstatic.com/media/9e10e9_f4c35f4407bf4fb4963fa98f174f1aa4~mv2.jpg/v1/fill/w_1074,h_500,fp_0.50_0.50,q_85,enc_auto/9e10e9_f4c35f4407bf4fb4963fa98f174f1aa4~mv2.jpg)
+
+
+## Step 1
+Add a ``||logic:if true then||`` block. 
+
+## Step 2
+Drag the ``||basic:show leds||`` block into the ``||basic:forever||`` block. 
+
+## Step 3
+Click on the ``||basic:Basic||`` category in the Toolbox. 
+
+
+## Step 4
+
+Congratulations, you did it!
