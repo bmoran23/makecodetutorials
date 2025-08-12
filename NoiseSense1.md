@@ -1,4 +1,3 @@
-# My DeskFan Tutorial
 # Flash-a-rama
 
 ## It's time to code! @showdialog
