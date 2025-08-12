@@ -13,7 +13,6 @@ Let's get real bright. We're going to make all the lights flash on your board!
 
 ![Flash lights](https://static.wixstatic.com/media/9e10e9_f4c35f4407bf4fb4963fa98f174f1aa4~mv2.jpg/v1/fill/w_1074,h_500,fp_0.50_0.50,q_85,enc_auto/9e10e9_f4c35f4407bf4fb4963fa98f174f1aa4~mv2.jpg)
 
-
 ## Step 1
 Add a ``||logic:if true then||`` block. 
 
